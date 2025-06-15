@@ -23,3 +23,72 @@ nav{
     align-items:center;
     color: #fff;
 }
+
+.nav-country{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    font-size: 13px;
+    color: #c4c4c4;
+}
+
+.nav-country h1{
+    color:#fff;
+    font-size: 14px;
+}
+
+.nav-search{
+    flex:1;
+    display: flex;
+    align-items: center;
+    background: #fff;
+    color:grey;
+    max-width: 1000px;
+    border-radius: 4px;
+    margin-left: 15px;
+}
+
+.nav-categry
+{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 5px;
+    background: #e5e5e5;
+    border-radius: 4px 0px 0px 4px;
+}
+
+.nav-search-input{
+    border: none;
+    outline:none;
+    padding-left: 20px;
+    width:100%;              
+    /* all the available width */
+}
+
+.nav-search-icon{
+    max-width: 41px;
+    padding: 8px;
+    background:#ffd64f;
+    border-radius:0 4px 4px 0;
+}
+
+.nav-lang{
+    display: flex;
+    align-items: center;
+    gap:2px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+
+.nav-text{
+    margin-left:15px;
+}
+
+.nav-text p{
+    font-size: 10px;
+}
+
+.nav-text h1{
+    font-size: 14px;
+}
