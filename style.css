@@ -121,4 +121,11 @@
         font-weight: 500;
     }
 
-    
+    .header-slider ul{
+        display: flex;
+        overflow-y: hidden;
+    }
+
+    .header-slider img{
+        width: 100%;
+    }
