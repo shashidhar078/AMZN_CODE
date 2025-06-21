@@ -131,7 +131,7 @@
         mask-image: linear-gradient(to bottom,#000000 50%,transparent 100%);
     }
 
-    .header-slider a{
+    .header-slider button{
         position:absolute;
         top:20%;
         z-index: 1;
@@ -142,6 +142,7 @@
         font-weight: 600;
         font-size: 18px;
         cursor: pointer;
+        border: none;
     }
 
     .ctrl-next{
