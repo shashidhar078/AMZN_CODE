@@ -1,6 +1,6 @@
 const img=document.querySelectorAll(".header-slider ul img");
 const pre=document.querySelector(".ctrl-prev");
-const next=document.querySelector(".ctrl-next");
+// const next=document.querySelector(".ctrl-next");
 
 let n=0;
 
